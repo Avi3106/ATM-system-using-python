@@ -24,8 +24,8 @@ class BankHolder:
     def checkbalance(self):
         print(f"hii {self.acountholder} your balance is: {self.balance}")
 
-print("""                                      namaskar!!!
-                                welcome to lena dena bank        """)
+print("namaskar!!! welcome to lena dena bank")
+
 print("enter your name to create the account")
 name= input('enter your name : ')
 balance = input('enter the amount you want to deposit first time: ')
